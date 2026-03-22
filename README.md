@@ -1,7 +1,7 @@
 This tutorial is a beginner-friendly, step-by-step guide to understanding **Swift Concurrency** using a simple and intuitive **restaurant analogy 🍽️**.
 
 👉 **Start here:**
-https://github.com/rebeloper/SwiftConcurrencyExpalined/wiki
+https://github.com/rebeloper/SwiftConcurrencyExplained/wiki
 
 This is the **full tutorial series**, structured step-by-step.
 Follow the chapters in order to build a solid understanding from the ground up.
